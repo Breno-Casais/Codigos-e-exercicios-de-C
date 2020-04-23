@@ -17,5 +17,6 @@ int main(){
 	}
 	
 	vector<int>::iterator it = v.begin();
+	cout << *it <<endl;
 return 0;
 }
