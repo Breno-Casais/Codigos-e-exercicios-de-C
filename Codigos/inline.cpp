@@ -15,3 +15,4 @@ int main(){
 	
 return 0;
 }
+//nos conseguimos realizar tudo perrfeitamente
