@@ -57,5 +57,6 @@ public:
 int main(){
 	Vetor v(10);
 	v.inserir(10,0);
+	cout<<"teste";
 	return 0 ;
 }
