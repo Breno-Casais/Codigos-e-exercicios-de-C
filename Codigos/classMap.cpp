@@ -1,9 +1,22 @@
 #include <iostream>
 #include <map>
-
+#include <vector>
 using namespace std;
 
 int main(){
+	vector <string> nome;
+	vector <string>::iterator it;
+	
+	map<int, vector<string>> teste;
+	
+	nome.push_back("breno");
+	nome.push_back("fernado");
+	
+	for (int i = 0; i < 3; i++)
+	{
+		
+	}
+	
 	
 	map<int,string> mapa = {
 		{1,"pedro"},
